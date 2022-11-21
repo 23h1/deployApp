@@ -1,7 +1,7 @@
 {
-  "name": "littletiers",
+  "name": "trialapp",
   "version": "1.0.0",
-  "description": "little tiers",
+  "description": "testing deployment",
   "main": "http_server.js",
   "scripts": {
     "build": "npm install",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kogsio/littletiers.git"
+    "url": ""
   },
   "author": "ab3",
   "license": "MIT",
